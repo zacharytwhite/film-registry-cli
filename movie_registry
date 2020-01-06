@@ -1,0 +1,10 @@
+#!/usr/bin/env ruby
+require 'io/console'
+require_relative 'movie_cli'
+
+loop do 
+  MovieCLI.menu 
+  puts 'Perform another action? y/n'
+  input = STDIN.getch.downcase
+  MovieCLI.leave if input != 'y'
+end

@@ -1,0 +1,478 @@
+---
+- !ruby/object:Movie
+  name: Eraserhead
+  rating: 9
+- !ruby/object:Movie
+  name: Mulholland Dr.
+  rating: 10
+- !ruby/object:Movie
+  name: Blue Velvet
+  rating: 9
+- !ruby/object:Movie
+  name: Lost Highway
+  rating: 8
+- !ruby/object:Movie
+  name: Inland Empire
+  rating: 7
+- !ruby/object:Movie
+  name: Get Out
+  rating: 9
+- !ruby/object:Movie
+  name: The Thing
+  rating: 10
+- !ruby/object:Movie
+  name: 12 Angry Men
+  rating: 10
+- !ruby/object:Movie
+  name: Pan's Labyrinth
+  rating: 10
+- !ruby/object:Movie
+  name: The Lobster
+  rating: 10
+- !ruby/object:Movie
+  name: Shaun Of The Dead
+  rating: 10
+- !ruby/object:Movie
+  name: Seven
+  rating: 10
+- !ruby/object:Movie
+  name: Silence Of The Lambs
+  rating: 10
+- !ruby/object:Movie
+  name: Alien
+  rating: 10
+- !ruby/object:Movie
+  name: The Witch
+  rating: 10
+- !ruby/object:Movie
+  name: Under The Skin
+  rating: 10
+- !ruby/object:Movie
+  name: '2001: A Space Odyssey'
+  rating: 10
+- !ruby/object:Movie
+  name: Memento
+  rating: 10
+- !ruby/object:Movie
+  name: Pulp Fiction
+  rating: 10
+- !ruby/object:Movie
+  name: Nocturnal Animals
+  rating: 10
+- !ruby/object:Movie
+  name: Eternal Sunshine Of The Spotless Mind
+  rating: 10
+- !ruby/object:Movie
+  name: Synecdoche, New York
+  rating: 9
+- !ruby/object:Movie
+  name: The Descent
+  rating: 7
+- !ruby/object:Movie
+  name: Hot Fuzz
+  rating: 10
+- !ruby/object:Movie
+  name: Mother!
+  rating: 7
+- !ruby/object:Movie
+  name: Sunshine
+  rating: 7
+- !ruby/object:Movie
+  name: Green Room
+  rating: 8
+- !ruby/object:Movie
+  name: It Comes At Night
+  rating: 9
+- !ruby/object:Movie
+  name: Drive
+  rating: 9
+- !ruby/object:Movie
+  name: The Lego Movie
+  rating: 9
+- !ruby/object:Movie
+  name: 'Twin Peaks: Fire Walk With Me'
+  rating: 8
+- !ruby/object:Movie
+  name: Enter The Void
+  rating: 5
+- !ruby/object:Movie
+  name: Blade Runner 2049
+  rating: 9
+- !ruby/object:Movie
+  name: Black Dynamite
+  rating: 9
+- !ruby/object:Movie
+  name: The Fountain
+  rating: 6
+- !ruby/object:Movie
+  name: The Lion King
+  rating: 10
+- !ruby/object:Movie
+  name: Arrival
+  rating: 9
+- !ruby/object:Movie
+  name: Phantom Thread
+  rating: 9
+- !ruby/object:Movie
+  name: The Shape Of Water
+  rating: 9
+- !ruby/object:Movie
+  name: Dunkirk
+  rating: 8
+- !ruby/object:Movie
+  name: The Killing Of A Sacred Deer
+  rating: 8
+- !ruby/object:Movie
+  name: Rear Window
+  rating: 8
+- !ruby/object:Movie
+  name: Blade Runner
+  rating: 8
+- !ruby/object:Movie
+  name: Antichrist
+  rating: 9
+- !ruby/object:Movie
+  name: Prisoners
+  rating: 8
+- !ruby/object:Movie
+  name: Inglourious Basterds
+  rating: 8
+- !ruby/object:Movie
+  name: In Bruges
+  rating: 10
+- !ruby/object:Movie
+  name: The Shawshank Redemption
+  rating: 10
+- !ruby/object:Movie
+  name: Fateful Findings
+  rating: 10
+- !ruby/object:Movie
+  name: The Revenant
+  rating: 8
+- !ruby/object:Movie
+  name: Good Time
+  rating: 9
+- !ruby/object:Movie
+  name: Don't Breathe
+  rating: 7
+- !ruby/object:Movie
+  name: Funny Games
+  rating: 7
+- !ruby/object:Movie
+  name: Enemy
+  rating: 8
+- !ruby/object:Movie
+  name: The Handmaiden
+  rating: 8
+- !ruby/object:Movie
+  name: Upstream Color
+  rating: 8
+- !ruby/object:Movie
+  name: Birdemic
+  rating: 1
+- !ruby/object:Movie
+  name: Anomalisa
+  rating: 10
+- !ruby/object:Movie
+  name: The Grand Budapest Hotel
+  rating: 10
+- !ruby/object:Movie
+  name: Lady In The Water
+  rating: 1
+- !ruby/object:Movie
+  name: The Happening
+  rating: 2
+- !ruby/object:Movie
+  name: Interstellar
+  rating: 7
+- !ruby/object:Movie
+  name: The Machinist
+  rating: 6
+- !ruby/object:Movie
+  name: Tower
+  rating: 9
+- !ruby/object:Movie
+  name: Reservoir Dogs
+  rating: 8
+- !ruby/object:Movie
+  name: The Usual Suspects
+  rating: 7
+- !ruby/object:Movie
+  name: Capote
+  rating: 7
+- !ruby/object:Movie
+  name: Shutter Island
+  rating: 7
+- !ruby/object:Movie
+  name: Three Billboards Outside Ebbing, Missouri
+  rating: 9
+- !ruby/object:Movie
+  name: The Last Airbender
+  rating: 1
+- !ruby/object:Movie
+  name: Melancholia
+  rating: 6
+- !ruby/object:Movie
+  name: Chronicle
+  rating: 6
+- !ruby/object:Movie
+  name: Oculus
+  rating: 5
+- !ruby/object:Movie
+  name: O Brother, Where Art Thou
+  rating: 7
+- !ruby/object:Movie
+  name: Burn After Reading
+  rating: 7
+- !ruby/object:Movie
+  name: Men In Black
+  rating: 8
+- !ruby/object:Movie
+  name: Men In Black 2
+  rating: 4
+- !ruby/object:Movie
+  name: Men In Black 3
+  rating: 6
+- !ruby/object:Movie
+  name: Scary Movie
+  rating: 5
+- !ruby/object:Movie
+  name: Suicide Squad
+  rating: 1
+- !ruby/object:Movie
+  name: Forrest Gump
+  rating: 7
+- !ruby/object:Movie
+  name: Inception
+  rating: 8
+- !ruby/object:Movie
+  name: Waltz With Bashir
+  rating: 8
+- !ruby/object:Movie
+  name: Whiplash
+  rating: 9
+- !ruby/object:Movie
+  name: Gladiator
+  rating: 7
+- !ruby/object:Movie
+  name: A Nightmare On Elm Street
+  rating: 7
+- !ruby/object:Movie
+  name: Zombieland
+  rating: 7
+- !ruby/object:Movie
+  name: Megan Is Missing
+  rating: 1
+- !ruby/object:Movie
+  name: Good Morning, Vietnam
+  rating: 7
+- !ruby/object:Movie
+  name: The Green Mile
+  rating: 8
+- !ruby/object:Movie
+  name: American History X
+  rating: 6
+- !ruby/object:Movie
+  name: 'Star Wars: Episode 4 - A New Hope'
+  rating: 7
+- !ruby/object:Movie
+  name: Superbad
+  rating: 6
+- !ruby/object:Movie
+  name: Amusement
+  rating: 1
+- !ruby/object:Movie
+  name: Unfriended
+  rating: 1
+- !ruby/object:Movie
+  name: Buried
+  rating: 6
+- !ruby/object:Movie
+  name: Oldboy
+  rating: 9
+- !ruby/object:Movie
+  name: Silent Hill
+  rating: 4
+- !ruby/object:Movie
+  name: Nightcrawler
+  rating: 8
+- !ruby/object:Movie
+  name: Step Brothers
+  rating: 6
+- !ruby/object:Movie
+  name: Salo, Or The 120 Days Of Sodom
+  rating: 6
+- !ruby/object:Movie
+  name: The World's End
+  rating: 8
+- !ruby/object:Movie
+  name: Cache
+  rating: 10
+- !ruby/object:Movie
+  name: Monty Python And The Holy Grail
+  rating: 8
+- !ruby/object:Movie
+  name: Hunger
+  rating: 9
+- !ruby/object:Movie
+  name: Foodfight
+  rating: 1
+- !ruby/object:Movie
+  name: The Big Lebowski
+  rating: 9
+- !ruby/object:Movie
+  name: American Psycho
+  rating: 8
+- !ruby/object:Movie
+  name: Nymphomaniac, Vol. 1
+  rating: 2
+- !ruby/object:Movie
+  name: The Texas Chainsaw Massacre
+  rating: 9
+- !ruby/object:Movie
+  name: Dancer In The Dark
+  rating: 8
+- !ruby/object:Movie
+  name: Nymphomaniac, Vol. 2
+  rating: 3
+- !ruby/object:Movie
+  name: It Follows
+  rating: 8
+- !ruby/object:Movie
+  name: The Elephant Man
+  rating: 8
+- !ruby/object:Movie
+  name: The Exorcist
+  rating: 9
+- !ruby/object:Movie
+  name: The Babadook
+  rating: 7
+- !ruby/object:Movie
+  name: Martyrs
+  rating: 8
+- !ruby/object:Movie
+  name: The Blair Witch Project
+  rating: 6
+- !ruby/object:Movie
+  name: A Clockwork Orange
+  rating: 8
+- !ruby/object:Movie
+  name: 21 Jump Street
+  rating: 8
+- !ruby/object:Movie
+  name: 22 Jump Street
+  rating: 8
+- !ruby/object:Movie
+  name: The Nice Guys
+  rating: 8
+- !ruby/object:Movie
+  name: The Ring
+  rating: 8
+- !ruby/object:Movie
+  name: Good Will Hunting
+  rating: 8
+- !ruby/object:Movie
+  name: Irreversible
+  rating: 7
+- !ruby/object:Movie
+  name: The Mist
+  rating: 7
+- !ruby/object:Movie
+  name: Breaking The Waves
+  rating: 7
+- !ruby/object:Movie
+  name: Apocalypse Now
+  rating: 8
+- !ruby/object:Movie
+  name: 28 Days Later
+  rating: 7
+- !ruby/object:Movie
+  name: Black Swan
+  rating: 8
+- !ruby/object:Movie
+  name: 'The Descent: Part 2'
+  rating: 2
+- !ruby/object:Movie
+  name: The Sixth Sense
+  rating: 8
+- !ruby/object:Movie
+  name: The Prestige
+  rating: 8
+- !ruby/object:Movie
+  name: 'Kill Bill: Vol. 1'
+  rating: 7
+- !ruby/object:Movie
+  name: The Wrestler
+  rating: 7
+- !ruby/object:Movie
+  name: The Shining
+  rating: 8
+- !ruby/object:Movie
+  name: Full Metal Jacket
+  rating: 8
+- !ruby/object:Movie
+  name: The Dark Knight
+  rating: 9
+- !ruby/object:Movie
+  name: The Matrix
+  rating: 8
+- !ruby/object:Movie
+  name: Fight Club
+  rating: 9
+- !ruby/object:Movie
+  name: Psycho
+  rating: 8
+- !ruby/object:Movie
+  name: Pi
+  rating: 7
+- !ruby/object:Movie
+  name: The Social Network
+  rating: 8
+- !ruby/object:Movie
+  name: Primer
+  rating: 9
+- !ruby/object:Movie
+  name: My Dinner With Andre
+  rating: 8
+- !ruby/object:Movie
+  name: Being John Malkovich
+  rating: 8
+- !ruby/object:Movie
+  name: 'Pink Floyd: The Wall'
+  rating: 8
+- !ruby/object:Movie
+  name: Gone Girl
+  rating: 8
+- !ruby/object:Movie
+  name: The Departed
+  rating: 8
+- !ruby/object:Movie
+  name: Tickled
+  rating: 8
+- !ruby/object:Movie
+  name: Django Unchained
+  rating: 7
+- !ruby/object:Movie
+  name: Kiss Kiss Bang Bang
+  rating: 8
+- !ruby/object:Movie
+  name: Fargo
+  rating: 7
+- !ruby/object:Movie
+  name: Zodiac
+  rating: 9
+- !ruby/object:Movie
+  name: The Master
+  rating: 8
+- !ruby/object:Movie
+  name: No Country For Old Men
+  rating: 9
+- !ruby/object:Movie
+  name: Seven Psychopaths
+  rating: 8
+- !ruby/object:Movie
+  name: Birdman
+  rating: 10
+- !ruby/object:Movie
+  name: Snatch
+  rating: 8
